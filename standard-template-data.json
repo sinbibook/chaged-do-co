@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2025-12-18T06:58:31.455Z",
+    "templateType": "gallery_sidebar_beige",
+    "propertyId": "15c79a41-70cc-499e-9baa-b988bdeab37b",
+    "homepageId": "c5b50248-0155-4087-b4c3-2e8983005670"
+  },
+  "property": {
+    "id": "15c79a41-70cc-499e-9baa-b988bdeab37b",
+    "name": "자연 앤 펜션",
+    "description": "도시를 벗어나 자연속에 들어와서 여유를 즐겨보세요.",
+    "subtitle": "자연의 펜션",
+    "address": "강원특별자치도 동해시 동해1234",
+    "latitude": 0,
+    "longitude": 0,
+    "contactPhone": "010-0000-0000",
+    "contactEmail": "cp@mc.com",
+    "checkin": "15:03:00",
+    "checkout": "11:00:00",
+    "checkInOutInfo": "",
+    "usageGuide": "",
+    "reservationGuide": "",
+    "province": "강원특별자치도",
+    "city": "동해시",
+    "amenities": [
+      "WiFi",
+      "세탁시설",
+      "엘리베이터",
+      "주방시설",
+      "바베큐시설",
+      "스파"
+    ],
+    "nearbyAttractions": [
+      "산",
+      "공원"
+    ],
+    "services": [
+      "셔틀버스"
+    ],
+    "propertyThemes": [
+      "오션뷰",
+      "힐링"
+    ],
+    "propertyTypes": [
+      "펜션"
+    ],
+    "businessInfo": {
+      "businessName": "자연 앤 펜션",
+      "businessNumber": "123-44-21424",
+      "representativeName": "홍",
+      "businessAddress": "경기도 가평군 테헤란로41",
+      "businessPhone": "",
+      "businessEmail": "",
+      "businessType": "",
+      "businessCategory": "",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "cbaf9abd-5445-470f-a2ef-b5cdb9a542ca",
+        "name": "설명",
+        "description": "시설설명",
+        "usageGuide": "이용안내",
+        "displayOrder": 0,
+        "images": [
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/cbaf9abd-5445-470f-a2ef-b5cdb9a542ca/main/1762318512149-7w05ynmkx7o.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/cbaf9abd-5445-470f-a2ef-b5cdb9a542ca/main/1762318512149-aj71ipr850s.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/cbaf9abd-5445-470f-a2ef-b5cdb9a542ca/main/1762318512149-ctupb259nuh.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/cbaf9abd-5445-470f-a2ef-b5cdb9a542ca/main/1762318512149-9gft5gxt3mg.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": "39d67f84-1fb4-451d-9455-9ef245d89a0e",
+        "name": "5",
+        "description": "5",
+        "usageGuide": "5",
+        "displayOrder": 1,
+        "images": [
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/39d67f84-1fb4-451d-9455-9ef245d89a0e/main/1762318512901-1ct1djktzok.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/39d67f84-1fb4-451d-9455-9ef245d89a0e/main/1762318512902-tn4p9pm0pj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": "9638e569-0f0a-41f6-816c-a65a29be004e",
+        "name": "6",
+        "description": "6",
+        "usageGuide": "6",
+        "displayOrder": 2,
+        "images": [
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/9638e569-0f0a-41f6-816c-a65a29be004e/main/1762318513498-trodbvfdwdb.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/9638e569-0f0a-41f6-816c-a65a29be004e/main/1762318513498-jxmuklt3gfd.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/facility/9638e569-0f0a-41f6-816c-a65a29be004e/main/1762318513498-p76xrbgynyq.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": false,
+      "immediateRefundTimeLimit": "60"
+    },
+    "images": [
+      {
+        "thumbnail": [],
+        "exterior": [
+          {
+            "id": "b13cea72-a057-49d9-8a47-91bf2f080846",
+            "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/property/15c79a41-70cc-499e-9baa-b988bdeab37b/exterior/1763365236172-3v97l21yafw.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "surrounding": [],
+        "commonArea": []
+      }
+    ],
+    "nameEn": "Create Property",
+    "domain": "chaged-do.co.kr",
+    "realtimeBookingId": "5555",
+    "ybsId": "1234"
+  },
+  "rooms": [
+    {
+      "id": "66c35b8b-ec90-4e74-9ba0-f8520a0e4c39",
+      "name": "테스트",
+      "description": "",
+      "roomInfo": "",
+      "group": null,
+      "size": 12,
+      "baseOccupancy": 1,
+      "maxOccupancy": 1,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0
+      },
+      "bedTypes": [],
+      "amenities": [],
+      "roomViews": [],
+      "roomStructures": [],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 2
+    }
+  ],
+  "homepage": {
+    "domain": "chaged-do.co.kr",
+    "templateType": "gallery_sidebar_beige",
+    "images": [
+      {
+        "logo": []
+      }
+    ],
+    "seo": {
+      "title": "",
+      "description": "",
+      "keywords": ""
+    },
+    "socialLinks": {},
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "closing": {
+                "title": "",
+                "images": []
+              },
+              "essence": {
+                "title": "",
+                "images": []
+              },
+              "gallery": {
+                "title": "",
+                "images": []
+              },
+              "signature": {
+                "title": "",
+                "images": []
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "notice": {
+                "title": "",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "about": []
+            }
+          ]
+        },
+        "room": [],
+        "facility": [],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "about": {
+                "title": "",
+                "images": [],
+                "description": ""
+              }
+            }
+          ]
+        }
+      },
+      "theme": {
+        "font": {
+          "koSub": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap",
+            "key": "nanum-gothic",
+            "family": "Nanum Gothic"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap",
+            "key": "playfair-display",
+            "family": "Playfair Display"
+          },
+          "koMain": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "family": "Pretendard"
+          }
+        },
+        "color": {
+          "primary": "#885411",
+          "secondary": "#ECE1DA"
+        }
+      }
+    },
+    "id": "c5b50248-0155-4087-b4c3-2e8983005670"
+  }
+}
