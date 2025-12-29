@@ -1,1 +1,1 @@
-# chaged-do-co
+# template-gallery-sidebar-beige Template

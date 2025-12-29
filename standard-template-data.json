@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2025-12-18T06:58:31.455Z",
-    "templateType": "gallery_sidebar_beige",
+    "version": "1.1.0",
+    "generatedAt": "2025-12-29T09:18:53.359Z",
+    "templateType": "gallery_sidebar",
     "propertyId": "15c79a41-70cc-499e-9baa-b988bdeab37b",
     "homepageId": "c5b50248-0155-4087-b4c3-2e8983005670"
   },
@@ -234,7 +234,7 @@
   ],
   "homepage": {
     "domain": "chaged-do.co.kr",
-    "templateType": "gallery_sidebar_beige",
+    "templateType": "gallery_sidebar",
     "images": [
       {
         "logo": []
@@ -252,24 +252,135 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "12321342424",
+                "images": [
+                  {
+                    "id": "e372e995-56dc-4bff-8c32-6d18f76ab0ce",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_hero/1766999914735-qhykryp8e1.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d19ddd9c-7068-4039-85b8-d223996d3d12",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_hero/1766999914737-xjg18n2bxe.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "81fc3543-7afc-42fe-8edb-a5783e36f4fd",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_hero/1766999914741-5d4gdvw9nff.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "2323232323"
               },
               "closing": {
                 "title": "",
                 "images": []
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "222",
+                "images": [
+                  {
+                    "id": "d7018151-e36e-40e1-a8d5-f152b346be6a",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_essence/1766999914741-47d7fc5o9lf.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f6ac45b0-d31e-45a9-bd03-42bf918d6914",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_essence/1766999914742-0foewxtx3jcb.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e9a0b672-673b-4095-9540-aa6b3cb5ecd7",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_essence/1766999914741-w1lo34atmpf.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e1551d4e-e9a4-47dd-8485-3898bbbf8b9e",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_essence/1766999914742-mtdldmgdrb.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "2171f49d-1419-48fe-b362-dc411a6bf065",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_essence/1766999914742-h5y7g2sqofm.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d173c771-e506-48d0-bf8d-acbf1fdeb9cf",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_essence/1766999914742-lhfdla4hs7c.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "3333"
               },
               "gallery": {
                 "title": "",
                 "images": []
               },
               "signature": {
-                "title": "",
-                "images": []
+                "title": "12321321",
+                "images": [
+                  {
+                    "id": "70fcaa85-53c2-48ba-b593-e01e26532480",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_signature/1766999914742-9pcem46xl3t.jpg",
+                    "sortOrder": 1,
+                    "description": "55555555",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "069ea29a-508d-4707-ae4c-c22647ad38a9",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_signature/1766999914742-bw8lzmqu42g.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "8223e8e7-6c68-45a2-8e77-cc5f7d6a0e7a",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_signature/1766999914742-s6vv21c82tc.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "6ac416ad-8aa9-46f6-9dcf-a43691a0de1b",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_signature/1766999914742-g9fx579mg9m.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "eb433f57-4aa7-42ad-b6e7-dd1f8d875383",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_signature/1766999914742-o8z7h3vjh7.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "c1d43797-de3a-4167-9375-0aa0f19df9fe",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/c5b50248-0155-4087-b4c3-2e8983005670/index_signature/1766999914742-1mj34y9um6m.jpg",
+                    "sortOrder": 9,
+                    "description": "4444",
+                    "isSelected": true
+                  }
+                ],
+                "description": "323232323"
               }
             }
           ]
@@ -320,27 +431,29 @@
       "theme": {
         "font": {
           "koSub": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap",
-            "key": "nanum-gothic",
-            "family": "Nanum Gothic"
+            "cdn": null,
+            "key": "sokchoseadotum",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_1@1.0/SokchoBadaDotum.woff2",
+            "family": "SokchoSeaDotum"
           },
           "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap",
-            "key": "playfair-display",
-            "family": "Playfair Display"
+            "cdn": "https://fonts.googleapis.com/css2?family=BBH+Bartle&display=swap",
+            "key": "bbhbartle",
+            "woff2": null,
+            "family": "BBH Bartle"
           },
           "koMain": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "family": "Pretendard"
+            "cdn": null,
+            "key": "aritaburi",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-buri-SemiBold.woff",
+            "family": "Aritaburi"
           }
         },
         "color": {
-          "primary": "#885411",
-          "secondary": "#ECE1DA"
+          "primary": "#F9FAFB",
+          "secondary": "#111827"
         }
       }
-    },
-    "id": "c5b50248-0155-4087-b4c3-2e8983005670"
+    }
   }
 }

@@ -1,7 +1,26 @@
+/* CDN Fonts */
+@import url('https://fonts.googleapis.com/css2?family=BBH+Bartle&display=swap');
+
+/* Font Faces */
+@font-face {
+  font-family: 'Aritaburi';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-buri-SemiBold.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SokchoSeaDotum';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_1@1.0/SokchoBadaDotum.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* CSS Variables */
 :root {
-  --font-ko-main: 'Pretendard', sans-serif;
-  --font-ko-sub: 'Nanum Gothic', sans-serif;
-  --font-en-main: 'Playfair Display', sans-serif;
-  --color-primary: #885411;
-  --color-secondary: #ECE1DA;
+  --font-ko-main: 'Aritaburi', sans-serif;
+  --font-ko-sub: 'SokchoSeaDotum', sans-serif;
+  --font-en-main: 'BBH Bartle', sans-serif;
+  --color-primary: #F9FAFB;
+  --color-secondary: #111827;
 }
